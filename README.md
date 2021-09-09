@@ -1,4 +1,4 @@
-# Aplicativo de Hospedagem
+# Hospeda.me
 
 O aplicativo Hospeda.me tem como objetivo reunir milhares de hospedagens em um só lugar, facilitando a vida do usuário.
 
